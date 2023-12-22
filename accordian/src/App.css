@@ -1,0 +1,17 @@
+.accordian {
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto;
+  width: 50%;
+}
+
+.elem{
+    margin: 15px 0px;
+    font: 400;
+    font-size: 18px;
+}
+.ques{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
